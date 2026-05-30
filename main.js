@@ -4116,13 +4116,13 @@ var app = (function () {
       c() {
         (n = w("div")),
           (n.innerHTML =
-            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="Heardle">K-Pop Heardle</a> but for ' +
+            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="Heardle">K-Pop Heardle</a> but for the tracklist of the ' +
             artist +
-            ' Music. Based on <a href="https://nterrien.github.io/etrian-infinite-heardle/" title="Etrian Odyssey Heardle">Etrian Odyssey Heardle</a>.</p> \n\n<p class="mb-3">Each ' +
+            ' Music app. Based on <a href="https://nterrien.github.io/etrian-infinite-heardle/" title="Etrian Odyssey Heardle">Etrian Odyssey Heardle</a>.</p> \n\n<p class="mb-3">Each ' +
             artist +
-            " Heardle is randomly chosen from the tracklist of the " +
+            " Heardle is randomly chosen from " +
             artist +
-            '\ Music app.</p>' +
+            '\ Music. (Currently being updated!)</p>' +
             (diff > 0 ? '<p class="mb-3">If you played before ' + dateBeforeBugStreak +
               ' and didn\'t clear your local storage, the stats "Current Streak" and "Max Streak" might be broken until you clear the local storage.</p>' : "")
             + '<p class="mb-3">Want to make your own Heardle? Check out the <a href="https://github.com/nterrien/etrian-heardle">README</a>  </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://github.com/">Github</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
