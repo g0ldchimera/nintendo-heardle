@@ -1,6 +1,6 @@
 var app = (function () {
-  var artist = "Etrian Odyssey";
-  var startDate = "2022-07-31"; // Original Start Date, used to know the current heardle
+  var artist = "Nintendo";
+  var startDate = "2026-05-30"; // Original Start Date, used to know the current heardle
   var seed = 565099537; // seed used for rng to select today's music
 
   // musicNameList and musicListWithLinks are defined in music-list.js and music-links.js
@@ -4118,11 +4118,11 @@ var app = (function () {
           (n.innerHTML =
             '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="Heardle">K-Pop Heardle</a> but for ' +
             artist +
-            ' musics. Based on <a href="https://joywave-heardle.glitch.me/" title="Joywave Heardle">Joywave Heardle</a>.</p> \n\n<p class="mb-3">Each ' +
+            ' Music. Based on <a href="https://nterrien.github.io/etrian-infinite-heardle/" title="Etrian Odyssey Heardle">Etrian Odyssey Heardle</a>.</p> \n\n<p class="mb-3">Each ' +
             artist +
-            " Heardle is randomly chosen from " +
+            " Heardle is randomly chosen from the tracklist of the " +
             artist +
-            '\'s soundtrack.</p>' +
+            '\ Music app.</p>' +
             (diff > 0 ? '<p class="mb-3">If you played before ' + dateBeforeBugStreak +
               ' and didn\'t clear your local storage, the stats "Current Streak" and "Max Streak" might be broken until you clear the local storage.</p>' : "")
             + '<p class="mb-3">Want to make your own Heardle? Check out the <a href="https://github.com/nterrien/etrian-heardle">README</a>  </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://github.com/">Github</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
@@ -4388,7 +4388,7 @@ var app = (function () {
           (n = w("p")),
             (s = w("p")),
             (n.innerHTML =
-              'Have questions/run into bugs? DM Beignet0 on Reddit, beignetSan on Twitch, @beignet0.bsky.social on Bluesky, beignet1139 on Discord or create an issue in <a href="https://github.com/nterrien/etrian-heardle/issues" target="_blank">Github</a>!<br><br>Don\'t want to wait until tomorrow? You can also play infinitely to <a href="https://nterrien.github.io/etrian-infinite-heardle/" title="Etrian Odyssey Infinite Heardle">Etrian Odyssey Infinite Heardle</a>.'),
+              'Have questions/run into bugs? DM @goldchimera.bsky.social on Bluesky or create an issue on <a href="https://github.com/g0ldchimera/nintendo-heardle/issues" target="_blank">Github</a>!<br><br>Don\'t want to wait until tomorrow? You can also play infinitely with <a href="https://g0ldchimera.github.io/nintendo-infinite-heardle/" title="Nintendo Infinite Heardle">Nintendo Infinite Heardle</a>.'),
             (r = x()),
             (s = w("p")),
             (i = x()),
@@ -5028,7 +5028,7 @@ var app = (function () {
               (seconds > 1 ? "s" : "")
               : "Failed today's " + artist + " Heardle") +
             "\n\n" +
-            t + "\n\nhttps://nterrien.github.io/etrian-heardle/";
+            t + "\n\nhttps://g0ldchimera.github.io/nintendo-heardle/";
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
