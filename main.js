@@ -4388,7 +4388,7 @@ var app = (function () {
           (n = w("p")),
             (s = w("p")),
             (n.innerHTML =
-              'Have questions/run into bugs? DM @goldchimera.bsky.social on Bluesky or create an issue on <a href="https://github.com/g0ldchimera/nintendo-heardle/issues" target="_blank">Github</a>!<br><br>Don\'t want to wait until tomorrow? You can also play infinitely with <a href="https://g0ldchimera.github.io/nintendo-infinite-heardle/" title="Nintendo Infinite Heardle">Nintendo Infinite Heardle</a>.'),
+              'To-do list:<br> -Continue updating tracks!<br> -Have thumbnails appear in search bar.<br> -Add feedback system for guessing the right game, but the wrong track.<br> -Add a mode to guess the game rather than the specific track.<br><br>Have questions/run into bugs? DM @goldchimera.bsky.social on Bluesky or create an issue on <a href="https://github.com/g0ldchimera/nintendo-heardle/issues" target="_blank">Github</a>!<br><br>Don\'t want to wait until tomorrow? You can also play infinitely with <a href="https://g0ldchimera.github.io/nintendo-infinite-heardle/" title="Nintendo Infinite Heardle">Nintendo Infinite Heardle</a>.'),
             (r = x()),
             (s = w("p")),
             (i = x()),
