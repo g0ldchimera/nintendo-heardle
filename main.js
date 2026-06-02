@@ -2186,7 +2186,7 @@ var app = (function () {
       c() {
         (t = w("div")),
           (t.innerHTML =
-            '<p>Turn up the volume and tap to start the track!</p> \n\n                <svg class="mt-2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg>'),
+             '<p><a href="https://docs.google.com/spreadsheets/d/1lVH5z37vtdCcjwFHJAL7-9LLx6T3GPbMJNRMgG19ahg/edit?usp=sharing">Click Here for an easier-to-navigate track list, including potentially useful thumbnails!</p> \n\n                <svg class="mt-2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg>'),
           M(
             t,
             "class",
