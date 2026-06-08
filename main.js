@@ -1301,6 +1301,40 @@ var app = (function () {
       },
     };
   }
+  function RedCross(e) {
+    let t, n, r;
+    return {
+      c() {
+        (t = k("svg")),
+          (n = k("line")),
+          (r = k("line")),
+          M(n, "x1", "18"),
+          M(n, "y1", "6"),
+          M(n, "x2", "6"),
+          M(n, "y2", "18"),
+          M(r, "x1", "6"),
+          M(r, "y1", "6"),
+          M(r, "x2", "18"),
+          M(r, "y2", "18"),
+          M(t, "class", "text-custom-negative"),
+          M(t, "xmlns", "http://www.w3.org/2000/svg"),
+          M(t, "width", "24"),
+          M(t, "height", "24"),
+          M(t, "viewBox", "0 0 24 24"),
+          M(t, "fill", "none"),
+          M(t, "stroke", "currentColor"),
+          M(t, "stroke-width", "2"),
+          M(t, "stroke-linecap", "round"),
+          M(t, "stroke-linejoin", "round");
+      },
+      m(e, s) {
+        g(e, t, s), p(t, n), p(t, r);
+      },
+      d(e) {
+        e && y(t);
+      },
+    };
+  }
   function GreenCross(e) {
     let t, n, r;
     return {
