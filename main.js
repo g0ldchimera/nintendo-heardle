@@ -1190,12 +1190,17 @@ var app = (function () {
     let t, n, r;
 
     function s(e, t) {
-      return e[0][e[7]].isCorrect || e[0][e[7]].isSkipped
-        ? e[0][e[7]].isSkipped
-          ? Te
-          : void 0
-        : Ye;
+      const song = e[0][e[7]];
+      console.log(window.musicNameList.find(a => a.fr === e[0][e[7]].answer)?.franchise);
+      if (e[0][e[7]].isSkipped) {
+        return Te;
+      } else if (e[0][e[7]].answer.split(" - ")[1] === e[2].artist) {
+        return GreenCross;
+      } else {
+        return RedCross;
+      }
     }
+    
     let i = s(e),
       o = i && i(e);
 
@@ -1296,7 +1301,40 @@ var app = (function () {
       },
     };
   }
-
+  function GreenCross(e) {
+    let t, n, r;
+    return {
+      c() {
+        (t = k("svg")),
+          (n = k("line")),
+          (r = k("line")),
+          M(n, "x1", "18"),
+          M(n, "y1", "6"),
+          M(n, "x2", "6"),
+          M(n, "y2", "18"),
+          M(r, "x1", "6"),
+          M(r, "y1", "6"),
+          M(r, "x2", "18"),
+          M(r, "y2", "18"),
+          M(t, "class", "text-custom-positive"), // Utilisation de la classe "text-custom-positive" pour la couleur verte
+          M(t, "xmlns", "http://www.w3.org/2000/svg"),
+          M(t, "width", "24"),
+          M(t, "height", "24"),
+          M(t, "viewBox", "0 0 24 24"),
+          M(t, "fill", "none"),
+          M(t, "stroke", "currentColor"),
+          M(t, "stroke-width", "2"),
+          M(t, "stroke-linecap", "round"),
+          M(t, "stroke-linejoin", "round");
+      },
+      m(e, s) {
+        g(e, t, s), p(t, n), p(t, r);
+      },
+      d(e) {
+        e && y(t);
+      },
+    };
+  }
   function Ce(e) {
     let t,
       n,
@@ -5122,7 +5160,7 @@ var app = (function () {
             (r = x()),
             (s = w("div")),
             (s.innerHTML =
-              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-6"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg></div> \n        <div><p>Skipped or incorrect attempts unlock more of the\n                intro.</p></div>'),
+              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-6"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg></div> \n        <div><p>Skipped or incorrect attempts unlock more of the\n                intro. A green cross means the wrong track, but the correct game!</p></div>'),
             (i = x()),
             (o = w("div")),
             (o.innerHTML =
