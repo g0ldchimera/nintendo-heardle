@@ -1,6 +1,6 @@
 var app = (function () {
   var artist = "Nintendo";
-  var startDate = "2026-05-30"; // Original Start Date, used to know the current heardle
+  var startDate = "2026-06-08"; // Original Start Date, used to know the current heardle
   var seed = 565099537; // seed used for rng to select today's music
 
   // musicNameList and musicListWithLinks are defined in music-list.js and music-links.js
