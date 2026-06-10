@@ -4181,7 +4181,7 @@ var app = (function () {
   function Nt(t) {
     let n;
     const diff =
-      Yn().diff(Yn("2026-03-26", "YYYY-MM-DD"), "days") %
+      Yn().diff(Yn("2026-06-08", "YYYY-MM-DD"), "days") %
       musicListWithLinks.length;
     let dateBeforeBugStreak = Yn().subtract(diff, "days").format("YYYY-MM-DD");
     return {
