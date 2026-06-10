@@ -1,6 +1,6 @@
 var app = (function () {
   var artist = "Nintendo";
-  var startDate = "2026-06-10"; // Original Start Date, used to know the current heardle
+  var startDate = "2026-06-11"; // Original Start Date, used to know the current heardle
   var seed = 565099537; // seed used for rng to select today's music
 
   // musicNameList and musicListWithLinks are defined in music-list.js and music-links.js
@@ -4181,7 +4181,7 @@ var app = (function () {
   function Nt(t) {
     let n;
     const diff =
-      Yn().diff(Yn("2026-06-10", "YYYY-MM-DD"), "days") %
+      Yn().diff(Yn("2026-06-11", "YYYY-MM-DD"), "days") %
       musicListWithLinks.length;
     let dateBeforeBugStreak = Yn().subtract(diff, "days").format("YYYY-MM-DD");
     return {
