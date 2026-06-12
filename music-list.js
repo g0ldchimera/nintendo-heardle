@@ -3417,4 +3417,181 @@ id: 673,
 name: "Finale - Pikmin 4",
 tags: ["All", "Top Tracks"]
 },
+
+//// Super Mario Bros. Wonder
+{
+id: 674,
+name: "Title Screen - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 675,
+name: "World Theme: Pipe-Rock Plateau - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 676,
+name: "Grassland Theme - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 677,
+name: "Bendy-Boing Wonder - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 678,
+name: "Piranha Plants on Parade - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 679,
+name: "World Theme: Petal Isles - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 680,
+name: "Coast Theme - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 681,
+name: "Stretchy-Shadow Wonder - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 682,
+name: "World Theme: Fluff-Puff Peaks - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 683,
+name: "Snowy-Mountain Theme - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 684,
+name: "Medley-Mix Wonder - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 685,
+name: "Athletic Theme - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 686,
+name: "Palace Theme - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 687,
+name: "Bowser Jr. Battle - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 688,
+name: "World Theme: Shining Falls - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 689,
+name: "Shining Falls Theme - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 690,
+name: "Shapey-Shift Wonder - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 691,
+name: "World Theme: Sunbaked Desert - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 692,
+name: "Desert Theme - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 693,
+name: "Ninji Disco - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 694,
+name: "World Theme: Fungi Mines - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 695,
+name: "Poison-Swamp Underground Theme - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 696,
+name: "A Night at Boo's Opera - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 697,
+name: "World Theme: Deep Magma Bog - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 698,
+name: "Lava Theme - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 699,
+name: "Flowy-Flight Wonder - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 700,
+name: "Flying Battleship Theme - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 701,
+name: "Doomy-Gloom Wonder - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 702,
+name: "Mecha Maker Battle - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 703,
+name: "World Theme: Petal Isles (Castle Bowser) - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 704,
+name: "Castle Bowser Theme - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 705,
+name: "Zappy-Zone Wonder - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 706,
+name: "Bowser's Wonder Rush - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 707,
+name: "Castle Bowser Battle - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 708,
+name: "Starry-Staff Wonder - Super Mario Bros. Wonder",
+tags: ["All", "Top Tracks"]
+},
 ];
