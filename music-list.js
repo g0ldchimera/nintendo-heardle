@@ -3471,12 +3471,12 @@ tags: ["All", "Top Tracks"]
 },
 {
 id: 684,
-name: "Medley-Mix Wonder - Super Mario Bros. Wonder",
+name: "Athletic Theme - Super Mario Bros. Wonder",
 tags: ["All", "Top Tracks"]
 },
 {
 id: 685,
-name: "Athletic Theme - Super Mario Bros. Wonder",
+name: "Medley-Mix Wonder - Super Mario Bros. Wonder",
 tags: ["All", "Top Tracks"]
 },
 {
