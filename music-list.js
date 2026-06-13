@@ -286,6 +286,103 @@ name: "Ending - Super Mario World 2: Yoshi's Island",
 tags: ["All", "Top Tracks"],
 },
 
+//// Donkey Kong Country 2: Diddy's Kong Quest
+{
+id: 709,
+name: "K. Rool Returns (Title Theme) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 710,
+name: "Welcome to Crocodile Isle (Map Screen) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 711,
+name: "Klomp's Romp (Pirate Panic) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 712,
+name: "Lockjaw's Saga (Lockjaw's Locker) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 713,
+name: "Boss Bossanova (Boss Theme) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 714,
+name: "Hot-Head Bop (Hot-Head Hop) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 715,
+name: "Kannon's Klanking (Kannon's Klaim) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 716,
+name: "Funky the Main Monkey (Funky's Theme) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 717,
+name: "Snakey Chantey (Rattle Battle) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 718,
+name: "Stickerbush Symphony (Bramble Blast) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 719,
+name: "Flight of the Zinger (Hornet Hole) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 720,
+name: "Haunted Chase (Haunted Hall) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 721,
+name: "Forest Interlude (Web Woods) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 722,
+name: "Token Tango (Bonus Level) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 723,
+name: "Krook's March (Chain Link Chamber) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 724,
+name: "In a Snowbound Land (Clapper's Cavern) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 725,
+name: "False Victory - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 726,
+name: "Crocodile Cacophony (K. Rool's Theme) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 727,
+name: "Donkey Kong Rescued (Credits Roll) - Donkey Kong Country 2: Diddy's Kong Quest",
+tags: ["All", "Top Tracks"]
+},
+
 //// Star Fox 64
 {
 id: 54,
@@ -3592,103 +3689,6 @@ tags: ["All", "Top Tracks"]
 {
 id: 708,
 name: "Starry-Staff Wonder - Super Mario Bros. Wonder",
-tags: ["All", "Top Tracks"]
-},
-  
-//// Donkey Kong Country 2: Diddy's Kong Quest
-{
-id: 709,
-name: "K. Rool Returns (Title Theme) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks", "Selects"]
-},
-{
-id: 710,
-name: "Welcome to Crocodile Isle (Map Screen) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 711,
-name: "Klomp's Romp (Pirate Panic) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 712,
-name: "Lockjaw's Saga (Lockjaw's Locker) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 713,
-name: "Boss Bossanova (Boss Theme) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 714,
-name: "Hot-Head Bop (Hot-Head Hop) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks", "Selects"]
-},
-{
-id: 715,
-name: "Kannon's Klanking (Kannon's Klaim) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks", "Selects"]
-},
-{
-id: 716,
-name: "Funky the Main Monkey (Funky's Theme) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 717,
-name: "Snakey Chantey (Rattle Battle) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 718,
-name: "Stickerbush Symphony (Bramble Blast) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks", "Selects"]
-},
-{
-id: 719,
-name: "Flight of the Zinger (Hornet Hole) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 720,
-name: "Haunted Chase (Haunted Hall) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 721,
-name: "Forest Interlude (Web Woods) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 722,
-name: "Token Tango (Bonus Level) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 723,
-name: "Krook's March (Chain Link Chamber) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 724,
-name: "In a Snowbound Land (Clapper's Cavern) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 725,
-name: "False Victory - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 726,
-name: "Crocodile Cacophony (K. Rool's Theme) - Donkey Kong Country 2: Diddy's Kong Quest",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 727,
-name: "Donkey Kong Rescued (Credits Roll) - Donkey Kong Country 2: Diddy's Kong Quest",
 tags: ["All", "Top Tracks"]
 },
 ];
