@@ -1150,6 +1150,78 @@ name: "Contests (Check Mii Out Channel) - Wii Channels",
 tags: ["All", "Top Tracks"]
 },
 
+//// Wii Sports
+{
+id: 728,
+name: "Title Theme - Wii Sports",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 729,
+name: "Main Menu - Wii Sports",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 730,
+name: "Learning to Play - Wii Sports",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 731,
+name: "Tennis: Player Selection - Wii Sports",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 732,
+name: "Tennis: Results - Wii Sports",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 733,
+name: "Baseball: Results - Wii Sports",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 734,
+name: "Bowling: The Alley - Wii Sports",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 735,
+name: "Bowling: Results - Wii Sports",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 736,
+name: "Golf: Course Selection - Wii Sports",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 737,
+name: "Golf: Results - Wii Sports",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 738,
+name: "Boxing: Results - Wii Sports",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 739,
+name: "Boxing: Training - Wii Sports",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 740,
+name: "Training: Earning a Medal - Wii Sports",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 741,
+name: "Wii Fitness: Menu - Wii Sports",
+tags: ["All", "Top Tracks"]
+},
+
 //// Super Mario Galaxy
 {
 id: 222,
