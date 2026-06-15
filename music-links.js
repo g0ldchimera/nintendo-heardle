@@ -3023,4 +3023,24 @@ answer: 754,
 url: "https://soundcloud.com/goldchimera/026x16",
 answer: 755,
 },
+{
+url: "https://soundcloud.com/goldchimera/027x01",
+answer: 756,
+},
+{
+url: "https://soundcloud.com/goldchimera/027x03",
+answer: 757,
+},
+{
+url: "https://soundcloud.com/goldchimera/027x04",
+answer: 758,
+},
+{
+url: "https://soundcloud.com/goldchimera/027x05",
+answer: 759,
+},
+{
+url: "https://soundcloud.com/goldchimera/027x07",
+answer: 760,
+},
 ];
