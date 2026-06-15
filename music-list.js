@@ -1110,6 +1110,33 @@ name: "Dog Show: Championship - nintendogs",
 tags: ["All", "Top Tracks"]
 },
 
+//// Brain  Age: Train Your Brain in Minutes a Day!
+{
+id: 756,
+name: "Title Theme - Brain Age: Train Your Brain in Minutes a Day!",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 757,
+name: "Menu Theme - Brain Age: Train Your Brain in Minutes a Day!",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 758,
+name: "Results - Brain Age: Train Your Brain in Minutes a Day!",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 759,
+name: "Checking Answers - Brain Age: Train Your Brain in Minutes a Day!",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 760,
+name: "Staff Credits - Brain Age: Train Your Brain in Minutes a Day!",
+tags: ["All", "Top Tracks", "Selects"]
+},
+
 //// Wii Channels
 {
 id: 200,
