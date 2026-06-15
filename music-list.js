@@ -510,6 +510,78 @@ name: "Credits Theme - Star Fox 64",
 tags: ["All", "Top Tracks"],
 },
 
+//// F-Zero X
+{
+id: 742,
+name: "Title BGM - F-Zero X",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 743,
+name: "Machine Select - F-Zero X",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 744,
+name: "Endless Challenge (Mute City) - F-Zero X",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 745,
+name: "Dream Chaser (Silence) - F-Zero X",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 746,
+name: "Fall Down to the Stream (Sand Ocean / Fire Field) - F-Zero X",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 747,
+name: "Decided by the Eyes (Big Blue) - F-Zero X",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 748,
+name: "A Devil's Call in Your Heart (Devil's Forest) - F-Zero X",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 749,
+name: "Long-Distance Murder (Red Canyon / Space Plant) - F-Zero X",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 750,
+name: "Crazy Crying Call (Port Town) - F-Zero X",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 751,
+name: "Drivin' Through on MAX (Sector α / Sector β / Rainbow Road) - F-Zero X",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 752,
+name: "Climb Up / Last Chance! (White Land / Big Hand) - F-Zero X",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 753,
+name: "Goal BGM - F-Zero X",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 754,
+name: "Grand Prix Ending - F-Zero X",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 755,
+name: "Staff Roll - F-Zero X",
+tags: ["All", "Top Tracks"]
+},
+
 //// The Legend of Zelda: Ocarina of Time
 {
 id: 79,
