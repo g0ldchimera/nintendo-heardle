@@ -3043,4 +3043,140 @@ answer: 759,
 url: "https://soundcloud.com/goldchimera/027x07",
 answer: 760,
 },
+{
+url: "https://soundcloud.com/goldchimera/028x01",
+answer: 761,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x02",
+answer: 762,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x03",
+answer: 763,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x04",
+answer: 764,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x05",
+answer: 765,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x06",
+answer: 766,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x07",
+answer: 767,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x08",
+answer: 768,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x09",
+answer: 769,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x10",
+answer: 770,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x11",
+answer: 771,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x12",
+answer: 772,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x13",
+answer: 773,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x14",
+answer: 774,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x15",
+answer: 775,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x16",
+answer: 776,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x17",
+answer: 777,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x18",
+answer: 778,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x29",
+answer: 779,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x31",
+answer: 780,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x32",
+answer: 781,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x36",
+answer: 782,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x38",
+answer: 783,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x39",
+answer: 784,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x40",
+answer: 785,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x41",
+answer: 786,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x45",
+answer: 787,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x46",
+answer: 788,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x52",
+answer: 789,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x54",
+answer: 790,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x55",
+answer: 791,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x56",
+answer: 792,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x57",
+answer: 793,
+},
+{
+url: "https://soundcloud.com/goldchimera/028x58",
+answer: 794,
+},
 ];
