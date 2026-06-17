@@ -2419,6 +2419,178 @@ name: "Staff Credits (Booster Course Pass) - Mario Kart 8 Deluxe",
 tags: ["All", "Top Tracks"]
 },
 
+//// Splatoon 2
+{
+id: 761,
+name: "Opening / Wet Floor - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 762,
+name: "Inkoming! / Wet Floor - Splatoon 2",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 763,
+name: "Rip Entry / Wet Floor  - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 764,
+name: "Undertow / Wet Floor - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 765,
+name: "Don't Slip / Wet Floor - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 766,
+name: "Endolphin Surge / Wet Floor - Splatoon 2",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 767,
+name: "Shipwreckin' / Bottom Feeders - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 768,
+name: "Fins & Fiddles / Bottom Feeders - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 769,
+name: "Seafoam Shanty / Bottom Feeders - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 770,
+name: "Broken Coral / Ink Theory - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 771,
+name: "Riptide Rupture / Ink Theory - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 772,
+name: "Blitz It! / Chirpy Chips - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 773,
+name: "Wave Prism / Chirpy Chips - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 774,
+name: "Seasick / Diss-Pair - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 775,
+name: "Kinetosis / Diss-Pair - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 776,
+name: "Chopscrewey / SashiMori - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 777,
+name: "Entropical / SashiMori - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 778,
+name: "Now or Never! / Wet Floor - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 779,
+name: "Happy Little Workers / Grizzco - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 780,
+name: "Deluge Dirge / ω-3 - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 781,
+name: "Fishing Frenzy / ω-3 - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 782,
+name: "Color Pulse / Off the Hook - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 783,
+name: "Ebb & Flow / Off the Hook - Splatoon 2",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 784,
+name: "Acid Hues / Off the Hook - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 785,
+name: "Muck Warfare / Off the Hook - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 786,
+name: "Now or Never! / Off the Hook - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 787,
+name: "Octo Canyon / Turquoise October - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 788,
+name: "Octo Eight-Step / Turquoise October - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 789,
+name: "Octoling Rendezvous / Turquoise October - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 790,
+name: "Octarmaments / Turquoise October - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 791,
+name: "Bomb Rush Blush / DJ Octavio feat. Callie - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 792,
+name: "Tidal Rush / DJ Octavio feat. Callie vs. Marie - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 793,
+name: "Spicy Calamari Inkantation / Squid Sisters - Splatoon 2",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 794,
+name: "Fresh Start / Squid Sisters - Splatoon 2",
+tags: ["All", "Top Tracks"]
+},
+
 //// Super Mario Odyssey
 {
 id: 423,
