@@ -391,56 +391,51 @@ tags: ["All", "Top Tracks", "Selects"]
 },
 {
 id: 796,
-name: "Watercraft Select - Wave Race 64",
-tags: ["All", "Top Tracks"]
-},
-{
-id: 797,
 name: "Dolphin Park - Wave Race 64",
 tags: ["All", "Top Tracks", "Selects"]
 },
 {
-id: 798,
+id: 797,
 name: "Sunny Beach (1996 Ver.) - Wave Race 64",
 tags: ["All", "Top Tracks", "Selects"]
 },
 {
-id: 799,
+id: 798,
 name: "Sunset Bay - Wave Race 64",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 800,
+id: 799,
 name: "Drake Lake - Wave Race 64",
 tags: ["All", "Top Tracks", "Selects"]
 },
 {
-id: 801,
+id: 800,
 name: "Marine Fortress - Wave Race 64",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 802,
+id: 801,
 name: "Port Blue - Wave Race 64",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 803,
+id: 802,
 name: "Twilight City - Wave Race 64",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 804,
+id: 803,
 name: "Glacier Coast - Wave Race 64",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 805,
+id: 804,
 name: "Southern Island (1996 Ver.) - Wave Race 64",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 806,
+id: 805,
 name: "Championship Ending - Wave Race 64",
 tags: ["All", "Top Tracks"]
 },
