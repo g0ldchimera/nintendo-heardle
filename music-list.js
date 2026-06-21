@@ -383,6 +383,98 @@ name: "Donkey Kong Rescued (Credits Roll) - Donkey Kong Country 2: Diddy's Kong 
 tags: ["All", "Top Tracks"]
 },
 
+//// Super Mario 64
+{
+id: 854,
+name: "Title Theme - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 855,
+name: "File Select - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 856,
+name: "Opening - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 857,
+name: "Peach's Castle - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 858,
+name: "Main Theme - Super Mario 64",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 859,
+name: "Stage Boss - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 860,
+name: "Slider - Super Mario 64",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 861,
+name: "Dire, Dire Docks - Super Mario 64",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 862,
+name: "Cool, Cool Mountain - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 863,
+name: "Bowser's Road - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 864,
+name: "Bowser's Theme - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 865,
+name: "Powerful Mario - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 866,
+name: "Big Boo's Haunt - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 867,
+name: "Hazy Maze Cave - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 868,
+name: "Lethal Lava Land - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 869,
+name: "The Final Battle - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 870,
+name: "Ending - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 871,
+name: "Staff Roll - Super Mario 64",
+tags: ["All", "Top Tracks"]
+},
+
 /// Wave Race 64
 {
 id: 795,
