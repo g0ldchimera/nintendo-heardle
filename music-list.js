@@ -1677,6 +1677,248 @@ name: "Staff Credits - Tomodachi Collection",
 tags: ["All", "Top Tracks"]
 },
 
+//// The Legend of Zelda: Skyward Sword
+{
+id: 806,
+name: "The Ballad of the Goddess (Main Theme) - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 807,
+name: "Islands in the Sky - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 808,
+name: "Skyloft - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 809,
+name: "A Moment with Zelda - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 810,
+name: "Groose Appears - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 811,
+name: "The Wing Ceremony - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 812,
+name: "Among the Clouds - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 813,
+name: "The Black Tornado - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 814,
+name: "Fi's Theme - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 815,
+name: "Braving the Unknown - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 816,
+name: "Gliding with a Loftwing - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 817,
+name: "Battle Theme - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 818,
+name: "The Sealed Temple - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 819,
+name: "Faron Woods - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 820,
+name: "The Skyview Temple - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 821,
+name: "A Duel with Ghirahim - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 822,
+name: "Eldin Volcano - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 823,
+name: "The Earth Temple - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 824,
+name: "Scaldera & Tentalus Battles - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 825,
+name: "Lanayru Desert - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 826,
+name: "The Lanayru Mining Facility - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 827,
+name: "Moldarach & Koloktos Battles - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 828,
+name: "Ghirahim's Assault - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 829,
+name: "Learning the Ballad of the Goddess - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 830,
+name: "The Imprisoned Battle - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 831,
+name: "The Statue of the Goddess - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 832,
+name: "Farore's Silent Realm - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 833,
+name: "The Guardians Give Chase - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 834,
+name: "Lake Floria - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 835,
+name: "The Ancient Cistern - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 836,
+name: "Koloktos Battle (Second Phase) - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 837,
+name: "The Lanayru Sand Sea - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 838,
+name: "A Strong Foe - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 839,
+name: "The Fire Sanctuary - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 840,
+name: "A Fierce Fight - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 841,
+name: "Reuniting with Zelda - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 842,
+name: "The Master Sword's Ultimate Form - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 843,
+name: "Ocular Parasite Bilocyte Battle - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 844,
+name: "Dragon's Den - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 845,
+name: "The Song of the Hero - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 846,
+name: "The Sky Keep - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 847,
+name: "A Return to the Surface - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 848,
+name: "Showdown with Ghirahim (Second Phase) - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 849,
+name: "Demise Battle - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 850,
+name: "Demise Strikes - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 851,
+name: "Thank You, Master Link - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 852,
+name: "A Tale of Origins - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 853,
+name: "Staff Credits - The Legend of Zelda: Skyward Sword",
+tags: ["All", "Top Tracks"]
+},
+
 //// The Legend of Zelda: Breath of the Wild
 {
 id: 264,
