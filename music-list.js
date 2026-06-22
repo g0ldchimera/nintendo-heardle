@@ -532,6 +532,98 @@ name: "Championship Ending - Wave Race 64",
 tags: ["All", "Top Tracks"]
 },
 
+//// Donkey Kong Country 3: Dixie Kong's Double Trouble!
+{
+id: 872,
+name: "Dixie Beat - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 873,
+name: "Northern Kremisphere - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 874,
+name: "Hangin’ at Funky’s - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 875,
+name: "Sub-Map Shuffle - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 877,
+name: "Stilt Village - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 878,
+name: "Frosty Frolics - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 886,
+name: "Boss Boogie - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 879,
+name: "Treetop Tumble - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 880,
+name: "Hot Pursuit - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 876,
+name: "Bonus Time - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 881,
+name: "Cascade Capers - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 882,
+name: "Nuts and Bolts - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 887,
+name: "Crystal Chasm - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 883,
+name: "Rockface Rumble - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 885,
+name: "Cavern Caprice - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 884,
+name: "Jungle Jitter - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 888,
+name: "Big Boss Blues - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 889,
+name: "Baddies on Parade - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+tags: ["All", "Top Tracks"]
+},
+
 //// Star Fox 64
 {
 id: 54,
