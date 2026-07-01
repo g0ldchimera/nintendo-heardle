@@ -1127,6 +1127,208 @@ name: "Credits - Metroid Prime",
 tags: ["All", "Top Tracks"],
 },
 
+//// The Legend of Zelda: The Wind Waker
+{
+id: 890,
+name: "Title Theme - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 891,
+name: "Legend of the Hero - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 892,
+name: "Outset Island - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 893,
+name: "Battle Theme - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 894,
+name: "Grandma - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 895,
+name: "Setting Sail - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 896,
+name: "Pirates - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 897,
+name: "Forsaken Fortress - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 898,
+name: "Windfall Island - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 899,
+name: "The Great Sea - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 900,
+name: "Clash at Sea - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 902,
+name: "Dragon Roost Island - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 903,
+name: "Intense Battle - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 904,
+name: "Gohma Battle (Second Phase) - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 905,
+name: "Forest Haven - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 906,
+name: "Forbidden Woods - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 907,
+name: "Kalle Demos - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 908,
+name: "The Cursed Sea - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 901,
+name: "Battle at Sea - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 909,
+name: "Tower of the Gods - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 910,
+name: "Gohdan Battle - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 911,
+name: "Hyrule Castle - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 912,
+name: "Phantom Ganon Battle - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 913,
+name: "Reunited with Aryll - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 914,
+name: "Helmaroc King Battle - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 915,
+name: "Zelda's Theme - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 916,
+name: "Fairy Queen - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 917,
+name: "Sage Laruto - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 918,
+name: "The Earth Temple - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 919,
+name: "Jalhalla Battle - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 920,
+name: "Medli's Prayer - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 921,
+name: "Sage Fado - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 922,
+name: "Wind Temple - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 923,
+name: "Molgera Battle - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 924,
+name: "Makar's Prayer - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 925,
+name: "Hero of Winds - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 926,
+name: "Ganon's Tower - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 927,
+name: "Puppet Ganon (Snake Form) - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 928,
+name: "Ganondorf Battle - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 929,
+name: "Staff Credits - The Legend of Zelda: The Wind Waker",
+tags: ["All", "Top Tracks"]
+},
+  
 //// Fire Emblem: The Blazing Blade
 {
 id: 114,
