@@ -152,6 +152,73 @@ name: "A New Wind for Tomorrow - Kirby's Dream Land",
 tags: ["All", "Top Tracks", "Selects"],
 },
 
+//// Super Mario Kart
+{
+id: 930,
+name: "Super Mario Kart Title Screen - Super Mario Kart",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 931,
+name: "Selection Screens - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 932,
+name: "Mario Circuit - Super Mario Kart",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 933,
+name: "Donut Plains - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 934,
+name: "Ghost Valley - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 935,
+name: "Bowser Castle - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 936,
+name: "Choco Island - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 937,
+name: "Koopa Beach - Super Mario Kart",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 938,
+name: "Vanilla Lake - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 939,
+name: "Rainbow Road - Super Mario Kart",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 940,
+name: "Race Results (Mario) - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 941,
+name: "Awards Ceremony (1st – 3rd Place) - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 942,
+name: "Staff Credits - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+
 //// Donkey Kong Country
 {
 id: 28,
