@@ -1149,6 +1149,133 @@ name: "End Credits - The Legend of Zelda: Ocarina of Time",
 tags: ["All", "Top Tracks"],
 },
 
+//// Golden Sun
+{
+id: 1004,
+name: "Main Theme (Title) - Golden Sun",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1005,
+name: "Setting Off - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1006,
+name: "Dungeon Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1007,
+name: "Chance Meeting with Sworn Enemies - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1008,
+name: "Village Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1009,
+name: "Sol Sanctum - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1010,
+name: "Elemental Stars - Golden Sun",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1011,
+name: "A Long Journey - Golden Sun",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1012,
+name: "Battle - Golden Sun",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1013,
+name: "Wind Adepts - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1014,
+name: "Cave Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1015,
+name: "Forest Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1016,
+name: "Battling a Powerful Foe - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1017,
+name: "Mercury Lighthouse - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1018,
+name: "Sworn Enemies Stand in Your Way - Golden Sun",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1019,
+name: "Town Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1020,
+name: "Temple Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1021,
+name: "Port-Town Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1022,
+name: "Tolbi - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1023,
+name: "Labyrinth Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1024,
+name: "Colosseum Finals - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1025,
+name: "Babi Lighthouse - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1026,
+name: "Venus Lighthouse - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1027,
+name: "Battle with Saturos & Menardi - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1028,
+name: "Battle with the Fusion Dragon - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+
 //// Metroid Prime
 {
 id: 148,
