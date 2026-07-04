@@ -100,6 +100,88 @@ name: "Level 20 Hi Clear (UFO) & Ending - Dr. Mario (Game Boy)",
 tags: ["All", "Top Tracks"],
 },
 
+/// Super Mario World
+{
+id: 989,
+name: "Title BGM - Super Mario World",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 990,
+name: "Yoshi's Island (Map Screen) - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 991,
+name: "Ground BGM - Super Mario World",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 992,
+name: "Donut Plains (Map Screen) - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 993,
+name: "Athletic BGM - Super Mario World",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 994,
+name: "Bonus Game BGM - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 995,
+name: "Vanilla Dome (Map Screen) - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 996,
+name: "Underground BGM - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 997,
+name: "Underwater BGM - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 998,
+name: "Forest of Illusion (Map Screen) - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 999,
+name: "Ghost House BGM - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1000,
+name: "Castle BGM - Super Mario World",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1001,
+name: "Koopalings BGM - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1002,
+name: "Valley of Bowser (Map Screen) - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1003,
+name: "Bowser BGM (Phase 1) - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1004,
+name: "Ending - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+
 //// Kirby's Dream Land
 {
 id: 18,
