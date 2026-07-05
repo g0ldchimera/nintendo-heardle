@@ -78,6 +78,48 @@ name: "Ending - Metroid",
 tags: ["All", "Top Tracks"],
 },
 
+//// Super Mario Bros. 2
+{
+id: 1048,
+name: "Title BGM - Super Mario Bros. 2",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1049,
+name: "Please Select Player - Super Mario Bros. 2",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1050,
+name: "Ground BGM - Super Mario Bros. 2",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1051,
+name: "Underground BGM - Super Mario Bros. 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1052,
+name: "Sub-Space BGM - Super Mario Bros. 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1053,
+name: "Boss BGM - Super Mario Bros. 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1054,
+name: "Final Boss BGM - Super Mario Bros. 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1055,
+name: "Ending - Super Mario Bros. 2",
+tags: ["All", "Top Tracks", "Selects"]
+},
+
 //// Dr. Mario (Game Boy)
 {
 id: 14,
