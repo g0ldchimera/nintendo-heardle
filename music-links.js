@@ -4195,4 +4195,36 @@ answer: 1046,
 url: "https://soundcloud.com/goldchimera/038x36",
 answer: 1047,
 },
+{
+url: "https://soundcloud.com/goldchimera/039x01",
+answer: 1048,
+},
+{
+url: "https://soundcloud.com/goldchimera/039x02",
+answer: 1049,
+},
+{
+url: "https://soundcloud.com/goldchimera/039x03",
+answer: 1050,
+},
+{
+url: "https://soundcloud.com/goldchimera/039x04",
+answer: 1051,
+},
+{
+url: "https://soundcloud.com/goldchimera/039x05",
+answer: 1052,
+},
+{
+url: "https://soundcloud.com/goldchimera/039x06",
+answer: 1053,
+},
+{
+url: "https://soundcloud.com/goldchimera/039x08",
+answer: 1054,
+},
+{
+url: "https://soundcloud.com/goldchimera/039x09",
+answer: 1055,
+},
 ];
