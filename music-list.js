@@ -224,6 +224,104 @@ name: "Ending - Super Mario World",
 tags: ["All", "Top Tracks"]
 },
 
+//// The Legend of Zelda: A Link to the Past
+//// The Legend of Zelda: A Link to the Past
+{
+id: 1056,
+name: "Title Theme - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1057,
+name: "Player Select - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1058,
+name: "Rainy Night - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1059,
+name: "Hyrule Castle - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1060,
+name: "Princess Zelda, Rescued - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1061,
+name: "Sanctuary - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1062,
+name: "Light World - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1063,
+name: "Kakariko Village - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1064,
+name: "Light World Dungeon - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1065,
+name: "Boss Theme - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1066,
+name: "Lost Woods - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1067,
+name: "Agahnim's Theme - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1068,
+name: "Dark World - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1069,
+name: "Dark World Dungeon - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1070,
+name: "The Crystals - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1071,
+name: "Mountains and Forests of the Dark World - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1072,
+name: "Ganon Battle - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1073,
+name: "Triforce Room - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1074,
+name: "Ending Theme - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+
 //// Kirby's Dream Land
 {
 id: 18,
