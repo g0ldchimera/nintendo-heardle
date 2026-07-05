@@ -2339,6 +2339,103 @@ name: "Staff Credits - Tomodachi Collection",
 tags: ["All", "Top Tracks"]
 },
 
+//// StreetPass Mii Plaza
+{
+id: 1029,
+name: "Entrance (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1030,
+name: "Main Theme 1 (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1031,
+name: "Main Theme 4 (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1032,
+name: "Main Theme 7 (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1033,
+name: "Title (Puzzle Swap) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1034,
+name: "Collected Pieces (Puzzle Swap) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1035,
+name: "Title (Find Mii) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1036,
+name: "Palace Theme (Find Mii) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1037,
+name: "To Battle, Heroes! (Find Mii) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1038,
+name: "Fight On, Heroes! (Find Mii) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1039,
+name: "Armored Fiend (Find Mii) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1040,
+name: "Ultimate Ghost (Find Mii) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1041,
+name: "Ending (Find Mii) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1042,
+name: "Title (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1043,
+name: "Keep Fighting, Heroes! (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1044,
+name: "Save the World, Heroes! (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1045,
+name: "Armored Archfiend (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1046,
+name: "Dark Lord (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1047,
+name: "Ending (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+
 //// The Legend of Zelda: Skyward Sword
 {
 id: 806,
