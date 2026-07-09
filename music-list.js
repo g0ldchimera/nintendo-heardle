@@ -120,6 +120,103 @@ name: "Ending - Super Mario Bros. 2",
 tags: ["All", "Top Tracks", "Selects"]
 },
 
+//// Super Mario Bros. 3
+{
+id: 1075,
+name: "World 1 Map (Grass Land) - Super Mario Bros. 3",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1076,
+name: "Ground BGM - Super Mario Bros. 3",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1077,
+name: "World 2 Map (Desert Land) - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1078,
+name: "Athletic BGM - Super Mario Bros. 3",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1079,
+name: "World 3 Map (Water Land) - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1080,
+name: "Underwater BGM - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1081,
+name: "World 4 Map (Giant Land) - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1082,
+name: "Underground BGM - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1083,
+name: "World 5 Map (Sky Land): On the Ground - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1084,
+name: "World 5 Map (Sky Land): In the Sky - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1085,
+name: "Bros. Battle - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1086,
+name: "World 6 Map (Ice Land) - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1087,
+name: "Fortress BGM - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1088,
+name: "Fortress Boss - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1089,
+name: "World 7 Map (Pipe Land) - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1090,
+name: "Airship BGM - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1091,
+name: "World 8 Map (Dark Land) - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1092,
+name: "King of the Koopas - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1093,
+name: "Ending - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+
 //// Dr. Mario (Game Boy)
 {
 id: 14,
