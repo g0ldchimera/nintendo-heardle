@@ -217,6 +217,117 @@ name: "Ending - Super Mario Bros. 3",
 tags: ["All", "Top Tracks"]
 },
 
+//// Tetris (Game Boy)
+{
+id: 1106,
+name: "Title Screen - Tetris (Game Boy)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1107,
+name: "A-Type (Early Version) - Tetris (Game Boy)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1108,
+name: "A-Type - Tetris (Game Boy)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1109,
+name: "B-Type - Tetris (Game Boy)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1110,
+name: "C-Type - Tetris (Game Boy)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1111,
+name: "Rocket Launch - Tetris (Game Boy)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1112,
+name: "Name Entry - Tetris (Game Boy)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1113,
+name: "2 Player: Danger - Tetris (Game Boy)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1114,
+name: "2 Player: Final Results - Tetris (Game Boy)",
+tags: ["All", "Top Tracks"]
+},
+
+//// Tetris (NES)
+{
+id: 1094,
+name: "MUSIC-1 - Tetris (NES)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1095,
+name: "MUSIC-2 - Tetris (NES)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1096,
+name: "MUSIC-3 - Tetris (NES)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1097,
+name: "Ending - Tetris (NES)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1098,
+name: "Name Entry - Tetris (NES)",
+tags: ["All", "Top Tracks"]
+},
+
+//// Dr. Mario (NES)
+{
+id: 1099,
+name: "Title Screen - Dr. Mario (NES)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1100,
+name: "Selection Screen - Dr. Mario (NES)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1101,
+name: "Fever - Dr. Mario (NES)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1102,
+name: "Fever Clear - Dr. Mario (NES)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1103,
+name: "Chill - Dr. Mario (NES)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1104,
+name: "Chill Clear - Dr. Mario (NES)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1105,
+name: "Level 20 Hi Clear (UFO) & Ending - Dr. Mario (NES)",
+tags: ["All", "Top Tracks"]
+},
+
 //// Dr. Mario (Game Boy)
 {
 id: 14,
