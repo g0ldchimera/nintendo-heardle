@@ -4910,6 +4910,113 @@ name: "Title Screen - Pokémon Legends: Arceus",
 tags: ["All", "Top Tracks"]
 },
 
+//// Kirby and the Forgotten Land
+{
+id: 1115,
+name: "Ready to Go! - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1116,
+name: "Running Through the New World - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1117,
+name: "Waddle Dee Town - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1118,
+name: "A Trip to Alivel Mall - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1119,
+name: "VS. Dangerous Beast - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1120,
+name: "Abandoned Beach - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1121,
+name: "Welcome to Wondaria - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1122,
+name: "Northeast Frost Street - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1123,
+name: "Roar of Dedede - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1124,
+name: "Moonlight Canyon - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1125,
+name: "Waddle Dee's Weapons Shop - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1126,
+name: "Sword of the Surviving Guardian - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1127,
+name: "Enter the Fiery Forbidden Lands - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1128,
+name: "Burning, Churning Power Plant - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1129,
+name: "Masked and Wild: D.D.D. - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1130,
+name: "The Raging Lion Roars - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1131,
+name: "Elfilin - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1132,
+name: "Two Planets Approach the Roche Limit - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1133,
+name: "A Full-Speed Farewell from the New World - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1134,
+name: "Soaring Determination: No Night is Eternal - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1135,
+name: "Welcome to the New World! (Full) - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks", "Selects"]
+},
+
 //// Splatoon 3
 {
 id: 558,
