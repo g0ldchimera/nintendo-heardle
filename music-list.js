@@ -432,7 +432,68 @@ name: "Ending - Super Mario World",
 tags: ["All", "Top Tracks"]
 },
 
-//// The Legend of Zelda: A Link to the Past
+//// F-ZERO
+{
+id: 1136,
+name: "Opening - F-ZERO",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1137,
+name: "Mute City - F-ZERO",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1138,
+name: "Big Blue - F-ZERO",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1139,
+name: "Sand Ocean - F-ZERO",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1140,
+name: "Death Wind - F-ZERO",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1141,
+name: "Silence - F-ZERO",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1142,
+name: "Port Town - F-ZERO",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1143,
+name: "Red Canyon - F-ZERO",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1144,
+name: "White Land I - F-ZERO",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1145,
+name: "White Land II - F-ZERO",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1146,
+name: "Fire Field - F-ZERO",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1147,
+name: "Ending - F-ZERO",
+tags: ["All", "Top Tracks"]
+},
+
 //// The Legend of Zelda: A Link to the Past
 {
 id: 1056,
