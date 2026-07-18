@@ -1687,112 +1687,112 @@ tags: ["All", "Top Tracks"]
 
 //// Luigi's Mansion
 {
-id: 1146,
+id: 1147,
 name: "Title Theme - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1147,
+id: 1148,
 name: "File Select - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1148,
+id: 1149,
 name: "Opening Scene - Luigi's Mansion",
 tags: ["All", "Top Tracks", "Selects"]
 },
 {
-id: 1152,
+id: 1153,
 name: "Title Theme (Humming) - Luigi's Mansion",
 tags: ["All", "Top Tracks", "Selects"]
 },
 {
-id: 1149,
+id: 1150,
 name: "Professor E. Gadd's Lab - Luigi's Mansion",
 tags: ["All", "Top Tracks", "Selects"]
 },
 {
-id: 1151,
+id: 1152,
 name: "There, There, Toad - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1154,
+id: 1155,
 name: "Boss Ghost: Chauncey - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1155,
+id: 1156,
 name: "Starting Up the Ghost Portrificationizer - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1156,
+id: 1157,
 name: "Ghosts You've Caught - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1157,
+id: 1158,
 name: "The Floating Whirlindas in the Ballroom - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1158,
+id: 1159,
 name: "Suck Up the Boo! - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1153,
+id: 1154,
 name: "Chatting with Professor E. Gadd - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1159,
+id: 1160,
 name: "Chatting with a Ghost - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1160,
+id: 1161,
 name: "Conservatory Instruments (Ground BGM) - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1161,
+id: 1162,
 name: "Cleaning the Conservatory - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1162,
+id: 1163,
 name: "Boss Ghost: Bogmire - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1150,
+id: 1151,
 name: "Gallery - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1163,
+id: 1164,
 name: "Boss Ghost: Boolossus - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1164,
+id: 1165,
 name: "Boss Ghost: King Boo - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1165,
+id: 1166,
 name: "Restoring Mario's Portrait - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1166,
+id: 1167,
 name: "The Brothers Reunited - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 1167,
+id: 1168,
 name: "Staff Credits - Luigi's Mansion",
 tags: ["All", "Top Tracks"]
 },
