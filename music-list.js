@@ -1685,6 +1685,118 @@ name: "Battle with the Fusion Dragon - Golden Sun",
 tags: ["All", "Top Tracks"]
 },
 
+//// Luigi's Mansion
+{
+id: 1146,
+name: "Title Theme - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1147,
+name: "File Select - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1148,
+name: "Opening Scene - Luigi's Mansion",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1152,
+name: "Title Theme (Humming) - Luigi's Mansion",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1149,
+name: "Professor E. Gadd's Lab - Luigi's Mansion",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1151,
+name: "There, There, Toad - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1154,
+name: "Boss Ghost: Chauncey - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1155,
+name: "Starting Up the Ghost Portrificationizer - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1156,
+name: "Ghosts You've Caught - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1157,
+name: "The Floating Whirlindas in the Ballroom - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1158,
+name: "Suck Up the Boo! - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1153,
+name: "Chatting with Professor E. Gadd - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1159,
+name: "Chatting with a Ghost - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1160,
+name: "Conservatory Instruments (Ground BGM) - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1161,
+name: "Cleaning the Conservatory - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1162,
+name: "Boss Ghost: Bogmire - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1150,
+name: "Gallery - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1163,
+name: "Boss Ghost: Boolossus - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1164,
+name: "Boss Ghost: King Boo - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1165,
+name: "Restoring Mario's Portrait - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1166,
+name: "The Brothers Reunited - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1167,
+name: "Staff Credits - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+
 //// Metroid Prime
 {
 id: 148,
