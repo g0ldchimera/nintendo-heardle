@@ -4683,4 +4683,24 @@ answer: 1167,
 url: "https://soundcloud.com/goldchimera/047x49",
 answer: 1168,
 },
+{
+url: "https://soundcloud.com/goldchimera/048x01",
+answer: 1169,
+},
+{
+url: "https://soundcloud.com/goldchimera/048x02",
+answer: 1170,
+},
+{
+url: "https://soundcloud.com/goldchimera/048x03",
+answer: 1171,
+},
+{
+url: "https://soundcloud.com/goldchimera/048x05",
+answer: 1172,
+},
+{
+url: "https://soundcloud.com/goldchimera/048x06",
+answer: 1173,
+},
 ];
