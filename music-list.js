@@ -36,6 +36,33 @@ name: "Ending - Super Mario Bros.",
 tags: ["All", "Top Tracks"],
 },
 
+//// The Legend of Zelda
+{
+id: 1169,
+name: "Title Theme - The Legend of Zelda",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1170,
+name: "Overworld Theme - The Legend of Zelda",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1171,
+name: "Underworld Theme - The Legend of Zelda",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1172,
+name: "Death Mountain Theme - The Legend of Zelda",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1173,
+name: "Ending Theme - The Legend of Zelda",
+tags: ["All", "Top Tracks"]
+},
+
 //// Metroid
 {
 id: 6,
