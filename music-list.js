@@ -5676,6 +5676,293 @@ name: "Title Screen - Pokémon Scarlet and Pokémon Violet",
 tags: ["All", "Top Tracks", "Selects"]
 },
 
+//// Fire Emblem Engage
+{
+id: 1176,
+name: "Emblem Engage! - Fire Emblem Engage",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1177,
+name: "Emblem Engage! (English) - Fire Emblem Engage",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1178,
+name: "Engage... - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1179,
+name: "Fire Emblem Theme - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1180,
+name: "Faraway Holy Land - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1181,
+name: "Corrupted - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1182,
+name: "Engage - Fire Emblem Engage",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1183,
+name: "Holy Land of Lythos - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1185,
+name: "Mother and Child Reunited - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1192,
+name: "On Day Patrol, Divine One? - Fire Emblem Engage",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1188,
+name: "Firene, Kingdom of Abundance - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1190,
+name: "Preparations - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1187,
+name: "Bloom in the Breeze - Fire Emblem Engage",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1191,
+name: "Silver-White Heart - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1193,
+name: "Your Journey - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1194,
+name: "A Fight for Peace - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1199,
+name: "Weapons Unleashed - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1195,
+name: "Brodia, Kingdom of Might - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1196,
+name: "A Warrior's Pride - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1197,
+name: "Clash - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1198,
+name: "Unshaken Royal Confidence (Might) - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1203,
+name: "Enforcer of Knowledge (Frenzy) - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1208,
+name: "A Pact for Piety - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1202,
+name: "Elusia, Kingdom of Knowledge - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1204,
+name: "Stalwart Preparations - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1201,
+name: "Tear Streaked (Ice) - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1205,
+name: "Fell Dragon Sombron - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1206,
+name: "Black-Silver Devastation - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1207,
+name: "Broken Bonds - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1209,
+name: "A Dragon Who Saves the World - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1210,
+name: "Illumination - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1212,
+name: "Solm, Queendom of Freedom - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1211,
+name: "Desert Rose - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1214,
+name: "Tenacity of Freedom - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1213,
+name: "Bright, Bold Sandstorm (Fiery) - Fire Emblem Engage",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1215,
+name: "The Fell Dragon's Hounds - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1216,
+name: "The Four Hounds (Frenzy) - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1189,
+name: "A Beacon of Light Awakens - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1218,
+name: "Falling Petals - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1219,
+name: "Dark Gray Feelings - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1217,
+name: "Determined Journey - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1220,
+name: "The Emblems' Miracle - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1184,
+name: "Trial of Emblems - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1200,
+name: "Keeper of History (Frenzy) - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1186,
+name: "Memories from Red Days - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1223,
+name: "Defective (Frenzy) - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1222,
+name: "Two Encounters - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1221,
+name: "Trial of the Pact - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1224,
+name: "A Thousand Years Alone - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1225,
+name: "Goddess in Shadow (Frenzy) - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1226,
+name: "Thank You...Mother - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1227,
+name: "When Life Returns - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1228,
+name: "Last Engage (Prayer-Incantation) - Fire Emblem Engage",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1229,
+name: "Heartfelt Farewell - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1230,
+name: "Fire Emblem Theme (The Fire Emblem) - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1231,
+name: "The Journey Is Finally... - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1232,
+name: "Fiery Bonds - Fire Emblem Engage",
+tags: ["All", "Top Tracks"]
+},
+
 //// Pikmin 4
 {
 id: 649,
