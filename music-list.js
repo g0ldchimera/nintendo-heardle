@@ -3226,6 +3226,178 @@ name: "Staff Credits - The Legend of Zelda: Skyward Sword",
 tags: ["All", "Top Tracks"]
 },
 
+//// Mario Kart 7
+{
+id: 1233,
+name: "Mario Kart 7 Title Screen - Mario Kart 7",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1264,
+name: "Selection Screen - Mario Kart 7",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1234,
+name: "Toad Circuit - Mario Kart 7",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1235,
+name: "Daisy Hills - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1236,
+name: "Cheep Cheep Lagoon - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1237,
+name: "Shy Guy Bazaar - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1238,
+name: "Wuhu Loop - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1239,
+name: "Music Park - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1240,
+name: "Rock Rock Mountain - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1241,
+name: "Piranha Plant Slide - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1242,
+name: "Wario Shipyard - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1243,
+name: "Neo Bowser City - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1244,
+name: "DK Jungle - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1245,
+name: "Rosalina's Ice World - Mario Kart 7",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1246,
+name: "Bowser's Castle - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1247,
+name: "Rainbow Road - Mario Kart 7",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1248,
+name: "N64 Luigi Raceway - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1249,
+name: "GBA Bowser Castle 1 - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1250,
+name: "Wii Mushroom Gorge - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1251,
+name: "DS Luigi's Mansion - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1252,
+name: "N64 Koopa Beach - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1253,
+name: "SNES Mario Circuit 2 - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1254,
+name: "Wii Coconut Mall - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1255,
+name: "DS Waluigi Pinball - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1256,
+name: "N64 Kalimari Desert - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1257,
+name: "DS DK Pass - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1258,
+name: "GCN Daisy Cruiser - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1259,
+name: "Wii Maple Treeway - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1260,
+name: "Wii Koopa Cape - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1261,
+name: "GCN Dino Dino Jungle - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1262,
+name: "DS Airship Fortress - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1263,
+name: "SNES Rainbow Road - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1265,
+name: "Results Screen A - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1266,
+name: "Staff Credits - Mario Kart 7",
+tags: ["All", "Top Tracks"]
+},
+
 //// The Legend of Zelda: Breath of the Wild
 {
 id: 264,
