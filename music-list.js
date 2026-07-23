@@ -105,6 +105,58 @@ name: "Ending - Metroid",
 tags: ["All", "Top Tracks"],
 },
 
+//// Kid Icarus
+{
+id: 1329,
+name: "Title Theme - Kid Icarus",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1330,
+name: "Stage 1 - Kid Icarus",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1331,
+name: "Boss BGM - Kid Icarus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1332,
+name: "Stage 2 - Kid Icarus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1333,
+name: "Fortress - Kid Icarus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1334,
+name: "Stage 3 - Kid Icarus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1335,
+name: "Reaper's Theme - Kid Icarus",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1336,
+name: "Stage 4 - Kid Icarus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1337,
+name: "Final Boss BGM - Kid Icarus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1338,
+name: "Ending Theme - Kid Icarus",
+tags: ["All", "Top Tracks"]
+},
+
 //// Super Mario Bros. 2
 {
 id: 1048,
