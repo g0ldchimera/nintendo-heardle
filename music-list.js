@@ -4391,11 +4391,6 @@ name: "Octo Eight-Step / Turquoise October - Splatoon 2",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 789,
-name: "Octoling Rendezvous / Turquoise October - Splatoon 2",
-tags: ["All", "Top Tracks"]
-},
-{
 id: 790,
 name: "Octarmaments / Turquoise October - Splatoon 2",
 tags: ["All", "Top Tracks"]
