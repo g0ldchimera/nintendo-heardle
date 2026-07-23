@@ -3450,6 +3450,108 @@ name: "Staff Credits - Mario Kart 7",
 tags: ["All", "Top Tracks"]
 },
 
+//// Splatoon
+{
+id: 1339,
+name: "Splattack! / Squid Squad - Splatoon",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1340,
+name: "Ink or Sink / Squid Squad - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1341,
+name: "Seaskape / Squid Squad - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1342,
+name: "Kraken Up / Squid Squad - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1343,
+name: "Metalopod / Squid Squad - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1344,
+name: "Shellfie / Chirpy Chips - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1345,
+name: "Split & Splat / Chirpy Chips - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1346,
+name: "Hooked / Hightide Era - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1347,
+name: "Sucker Punch / Hightide Era - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1348,
+name: "Now or Never! / Squid Squad - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1349,
+name: "City of Color / Squid Sisters - Splatoon",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1350,
+name: "Ink Me Up / Squid Sisters - Splatoon",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1351,
+name: "Now or Never! / Squid Sisters - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1352,
+name: "Eight-Legged Advance / Turquoise October - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1353,
+name: "Tentacular Circus / Turquoise October - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 789,
+name: "Octoling Rendezvous / Turquoise October - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1354,
+name: "Octoweaponry / Turquoise October - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1355,
+name: "I Am Octavio / DJ Octavio - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1356,
+name: "Calamari Inkantation / Squid Sisters - Splatoon",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1357,
+name: "Maritime Memory / Squid Sisters - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+
 //// The Legend of Zelda: Breath of the Wild
 {
 id: 264,
