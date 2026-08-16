@@ -6596,6 +6596,378 @@ name: "Fiery Bonds - Fire Emblem Engage",
 tags: ["All", "Top Tracks"]
 },
 
+//// The Legend of Zelda: Tears of the Kingdom
+{
+id: 1357,
+name: "Opening - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1358,
+name: "Overworld (Skies) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1362,
+name: "Battle (Overworld) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1359,
+name: "The Temple of Time - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1360,
+name: "Meeting Rauru, Source of the Right Arm - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1361,
+name: "Shrines of Light - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1395,
+name: "Battle (Shrine of Light) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1371,
+name: "Flux Construct Battle - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1363,
+name: "You Must Find Me - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1364,
+name: "Skydiving - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1365,
+name: "Overworld (Surface, Day) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1366,
+name: "Lookout Landing - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1370,
+name: "Skyview Tower - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1367,
+name: "A Vast World - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1373,
+name: "Lucky Clover Gazette - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1374,
+name: "Rito Village (Strange Phenomena) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1375,
+name: "The Thunderhead - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1376,
+name: "Wind Temple (Fifth Phase) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1377,
+name: "Battle with Colgera (First Phase) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1378,
+name: "Tulin, Sage of Wind - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1379,
+name: "Gleeok Battle - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1380,
+name: "Goron City (Strange Phenomena) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1381,
+name: "YunoboCo HQ - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1382,
+name: "Battle with Yunobo, Clearly Not Himself - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1383,
+name: "Battle with Moragia - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1384,
+name: "Fire Temple (Fifth Phase) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1385,
+name: "Battle with Marbled Gohma (First Phase) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1386,
+name: "Yunobo, Sage of Fire - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1368,
+name: "Overworld (Depths) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1369,
+name: "Lightroot - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1387,
+name: "Battle (Overworld: Depths/Caves) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1388,
+name: "Frox Battle - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1430,
+name: "Tarrey Town (Night) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1389,
+name: "Zora's Domain (Strange Phenomena) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1390,
+name: "Battle with Sludge Like - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1391,
+name: "Ancient Zora Waterworks - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1392,
+name: "Water Temple (Fourth Phase) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1393,
+name: "Battle with Mucktorok (First Phase) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1394,
+name: "Sidon, Sage of Water - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1396,
+name: "Battle with the Returned Master Kohga - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1397,
+name: "Gerudo Town (Strange Phenomena) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1398,
+name: "Gerudo Shelter - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1399,
+name: "Desert Ruins - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1400,
+name: "Defending Gerudo Town - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1401,
+name: "Lightning Temple (Fourth Phase) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1402,
+name: "Battle with Queen Gibdo (First Phase) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1403,
+name: "Riju, Sage of Lightning - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1404,
+name: "Gerudo Town (Day) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1405,
+name: "Hyrule Castle (Skies) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1406,
+name: "Battle with Phantom Ganon (First Phase) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1407,
+name: "Thunderhead Isles - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1408,
+name: "Dragonhead Island - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1409,
+name: "Construct Factory (Fifth Phase) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1410,
+name: "Spirit Temple - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1411,
+name: "Battle with Seized Construct (First Phase) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1412,
+name: "Mineru, Sage of Spirit - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1413,
+name: "Korok Forest (Strange Phenomena) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1372,
+name: "Gloom Spawn Battle - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1414,
+name: "Memory: Tears of the Dragon - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1415,
+name: "The Light Dragon - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1416,
+name: "Zelda's Wish Granted - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1417,
+name: "Gloom's Lair - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1418,
+name: "The Sages Assemble - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1419,
+name: "The Demon King's Army - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1420,
+name: "Trust the Sages and Go - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1421,
+name: "Battle with Ganondorf - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1422,
+name: "Battle with Ganondorf, Second Form (First Phase) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1423,
+name: "Battle with Ganondorf, Second Form (Second Phase) - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1424,
+name: "The Demon Dragon and the Light Dragon - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1425,
+name: "Battle with Demon Dragon - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1426,
+name: "Reaching for Her Hand - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1427,
+name: "Oh, Link... I'm Home! - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1428,
+name: "Staff Credits - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1429,
+name: "Epilogue - The Legend of Zelda: Tears of the Kingdom",
+tags: ["All", "Top Tracks"]
+},
+
 //// Pikmin 4
 {
 id: 649,
