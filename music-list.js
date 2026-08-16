@@ -5511,6 +5511,188 @@ name: "Welcome Horizons (Performance) - Animal Crossing: New Horizons",
 tags: ["All", "Top Tracks"]
 },
 
+//// Clubhouse Games: 51 Worldwide Classics
+{
+id: 1431,
+name: "Title Screen - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1432,
+name: "Opening - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1433,
+name: "Game Guides - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1434,
+name: "Board Games: Play 1 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1435,
+name: "Board Games: Play 2 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1436,
+name: "Board Games: Play 3 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1437,
+name: "Board Games: Play 4 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1438,
+name: "Yacht Dice: Which Category? - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1439,
+name: "Four-in-a-Row: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1440,
+name: "Japanese Games: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1441,
+name: "Dominoes: Deciding Turn Order - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1442,
+name: "Chess: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1443,
+name: "Hanafuda: Determining the Dealer - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1444,
+name: "Riichi Mahjong: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1445,
+name: "Card Games: Play 1 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1446,
+name: "Card Games: Play 2 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1447,
+name: "Card Games: Play 3 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1448,
+name: "President: Revolution - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1449,
+name: "Speed: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1450,
+name: "Matching: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1451,
+name: "War: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1452,
+name: "Takoyaki: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1453,
+name: "Pig's Tail: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1454,
+name: "Golf: Final Results - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1455,
+name: "Sophisticated Games: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1456,
+name: "Sports Games: During the Game 1 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1457,
+name: "Sports Games: During the Game 2 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 1458,
+name: "Toy Tennis: During the Match - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1459,
+name: "Toy Soccer: During the Match - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1460,
+name: "Toy Boxing: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1461,
+name: "Toy Baseball: During the Game - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1462,
+name: "Fishing: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1463,
+name: "Battle Tanks: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1464,
+name: "6-Ball Puzzle: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1465,
+name: "Online: Who's Joining? - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1466,
+name: "Staff Credits - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+
 //// Pokémon Legends: Arceus
 {
 id: 943,
