@@ -8843,7 +8843,7 @@
         c() {
           (t = w("p")),
             (t.textContent =
-              "Mamma Mia! There was an error loading the player. Please reload and try again."),
+              "There was an error loading the player. Please reload and try again."),
             (n = x()),
             (r = w("div")),
             Q(s.$$.fragment),
@@ -8921,7 +8921,7 @@
           (a = w("div")),
           (l = w("p")),
           (l.textContent =
-            "Oh no! Seems like today's track is unavailable on\n                            SoundCloud in your location"),
+            "This track is unavailable on\n                            SoundCloud in your location"),
           (u = x()),
           c && c.c(),
           M(i, "class", "mr-3"),
@@ -9300,11 +9300,11 @@
     return {
       c() {
         (t = w("p")),
-          (n = _("We're really sorry. The answer is ")),
+          (n = _("Sorry! The answer is ")),
           (r = w("a")),
           (s = _("here")),
           (o = _(
-            ", though, if you want to maintain your streak.\n                                We won't tell..."
+            ", though, if you want to maintain your streak.\n                                I won't tell..."
           )),
           M(r, "href", (i = e[1].url)),
           M(t, "class", "text-xs text-custom-line pt-1");
@@ -11189,7 +11189,7 @@
         (n = w("div")),
           (n.innerHTML =
           //Fiverr new line
-            '<p class="mb-3">Mario Heardle is a version of Heardle that features songs from across the entire Mario franchise.</p> <p class="mb-3">Volume Slider and Scroll Bar code by <a href="https://github.com/morgvanny">morgvanny</a>.</p> <p class="mb-3">Metadata code by <a href="https://www.fiverr.com/gema_designer">gema_designer</a>.</p>\n\n<p class="mb-3">The full list of songs is available <a href="https://docs.google.com/spreadsheets/d/12vCtRU4cKzgTZk60kVveHRxQvdC2u0yS5pEISWeDlZo/edit#gid=0">here.</a> </p> \n\n<p class="mb-3"> If you have any technical issues, you can contact me @amity-galaxy on Bluesky, or by commenting on the previously linked Google Sheet. </p>'),
+            '<p class="mb-3">Nintendo Heardle is a version of Heardle featuring the discography of the Nintendo Music app.</p> <p class="mb-3">Volume Slider and Scroll Bar code by <a href="https://github.com/morgvanny">morgvanny</a>.</p> <p class="mb-3">Metadata code by <a href="https://www.fiverr.com/gema_designer">gema_designer</a>.</p>\n\n<p class="mb-3">The full list of songs is available <a href="https://docs.google.com/spreadsheets/d/1lVH5z37vtdCcjwFHJAL7-9LLx6T3GPbMJNRMgG19ahg/edit#gid=0">here.</a> </p> \n\n<p class="mb-3"> If you have any technical issues, you can contact me @goldchimera.bsky.social, or by commenting on the previously linked Google Sheet. </p>'),
           //FNL
           M(n, "class", "text");
       },
@@ -11217,14 +11217,14 @@
         (n = w("div")),
           (r = w("a")),
            (r.innerHTML =
-           '<span class="kofitext svelte-1d3p4dy"><img src="https://i.imgur.com/uuaLiEE.png" alt="Mario Heardle Infinite" class="kofiimg mr-2 mb-1 svelte-1d3p4dy"/>Click here to play</p>Mario Heardle Infinite!'),
+           '<span class="kofitext svelte-1d3p4dy"><img src="https://i.imgur.com/uuaLiEE.png" alt="Nintendo Infinite Heardle" class="kofiimg mr-2 mb-1 svelte-1d3p4dy"/>Click here to play</p>Nintendo Infinite Heardle!'),
            M(
              r,
              "class",
              "kofi-button py-2 px-3 rounded-lg items-center flex  svelte-1d3p4dy"
            ),
-           M(r, "href", "https://ninjigalaxy.github.io/mario-heardle-infinite/"),
-           M(r, "title", "Mario Heardle Infinite"),
+           M(r, "href", "https://g0ldchimera.github.io/nintendo-infinite-heardle/"),
+           M(r, "title", "Nintendo Infinite Heardle"),
           M(
             n,
             "class",
@@ -11854,7 +11854,7 @@
         n = _(
           "You didn't get today's " +
             artist +
-            " Heardle. Better luck tomorrow! 💎"
+            " Heardle. Better luck tomorrow!"
         );
       },
       m(e, t) {
@@ -12103,7 +12103,7 @@
             (n.innerHTML =
               '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-7 w-7"><circle cx="5.5" cy="17.5" r="2.5"></circle><circle cx="17.5" cy="15.5" r="2.5"></circle><path d="M8 17V5l12-2v12"></path></svg></div> \n        <div><p>Listen to the intro, then find the correct ' +
               artist +
-              " song in the list.</p></div>"),
+              " Music from the list.</p></div>"),
             (r = x()),
             (s = w("div")),
             (s.innerHTML =
@@ -16492,7 +16492,7 @@
             "content",
             "Guess the " +
               artist +
-              " song from the intro in as few tries as possible"
+              " Music from the intro in as few tries as possible"
           ),
           M(n, "rel", "apple-touch-icon"),
           M(n, "sizes", "180x180"),
