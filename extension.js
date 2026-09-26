@@ -84,7 +84,7 @@ let _metadata = createMetadata({
   "Yoshi's Island (Map Screen) - Super Mario World": [1990, "Super NES", "Super Mario", "Super Mario World"],
   "Ground BGM - Super Mario World": [1990, "Super NES", "Super Mario", "Super Mario World"],
   "Donut Plains (Map Screen) - Super Mario World": [1990, "Super NES", "Super Mario", "Super Mario World"],
-  "Athletic BGM - Super Mario World": [1990, "Super NES", "Super Mario", "Super Mario World"],"],
+  "Athletic BGM - Super Mario World": [1990, "Super NES", "Super Mario", "Super Mario World"],
   "Bonus Game BGM - Super Mario World": [1990, "Super NES", "Super Mario", "Super Mario World"],
   "Vanilla Dome (Map Screen) - Super Mario World": [1990, "Super NES", "Super Mario", "Super Mario World"],
   "Underground BGM - Super Mario World": [1990, "Super NES", "Super Mario", "Super Mario World"],
