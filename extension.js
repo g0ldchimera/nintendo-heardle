@@ -1,10 +1,7 @@
 let _metadata = createMetadata({
   "Ground BGM - Super Mario Bros.": [1985, "NES", "Super Mario", "Super Mario Bros."],
   "Underground BGM - Super Mario Bros.": [1985, "NES", "Super Mario", "Super Mario Bros."],
-  "Invincibility BGM - Super Mario Bros.": [1985, "NES", "Super Mario", "Super Mario Bros."],
   "Underwater BGM - Super Mario Bros.": [1985, "NES", "Super Mario", "Super Mario Bros."],
-  "Castle BGM - Super Mario Bros.": [1985, "NES", "Super Mario", "Super Mario Bros."],
-  "Ending - Super Mario Bros.": [1985, "NES", "Super Mario", "Super Mario Bros."],
   "Title Theme - The Legend of Zelda": [1986, "NES", "The Legend of Zelda", "The Legend of Zelda"],
   "Overworld Theme - The Legend of Zelda": [1986, "NES", "The Legend of Zelda", "The Legend of Zelda"],
   "Underworld Theme - The Legend of Zelda": [1986, "NES", "The Legend of Zelda", "The Legend of Zelda"],
