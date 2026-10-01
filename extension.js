@@ -128,7 +128,6 @@ let _metadata = createMetadata({
   "Green Greens - Kirby's Dream Land": [1992, "Game Boy", "Kirby", "Kirby's Dream Land"],
   "Boss Theme - Kirby's Dream Land": [1992, "Game Boy", "Kirby", "Kirby's Dream Land"],
   "Castle Lololo - Kirby's Dream Land": [1992, "Game Boy", "Kirby", "Kirby's Dream Land"],
-  "Invincible - Kirby's Dream Land": [1992, "Game Boy", "Kirby", "Kirby's Dream Land"],
   "Float Islands - Kirby's Dream Land": [1992, "Game Boy", "Kirby", "Kirby's Dream Land"],
   "Shooting - Kirby's Dream Land": [1992, "Game Boy", "Kirby", "Kirby's Dream Land"],
   "Bubbly Clouds - Kirby's Dream Land": [1992, "Game Boy", "Kirby", "Kirby's Dream Land"],
